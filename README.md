@@ -29,7 +29,7 @@
  >
  >![Inner_outer_loops](https://user-images.githubusercontent.com/92836648/141665890-f191030d-31ba-4dd5-9ea1-f3f7f1611971.png)
 
- >Conditional Formatting rules for evaulated results:
+ >Conditional Formatting rules for evaluated results:
  >
  >![background_formatting_value_rules](https://user-images.githubusercontent.com/92836648/141665885-228e55d9-03a0-4082-bcc4-b653fcd63337.png)
 
@@ -75,7 +75,7 @@
  >
  >![Dim_Tickers_as_string](https://user-images.githubusercontent.com/92836648/141665889-d99867ce-c6c7-4c73-9583-025720dc44f0.png)
 
- - #### Advantages vs Disadvanteges between Non-refactored and Refactored Code:
+ - #### Advantages vs Disadvantages between Non-refactored and Refactored Code:
  >
  > - ##### Advantage concluded from the coding is the Output arrays and the data type selected for data storage capacities, and along with Refactored coding adding `Dim tickerVolume`.
  >
