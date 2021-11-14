@@ -79,7 +79,12 @@
  >
  > - ##### Advantage concluded from the coding is the Output arrays and the data type selected for data storage capacities, and along with Refactored coding adding `Dim tickerVolume`.
  >
+ >Non-refactored:
+ >
  >![Non_refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664954-ab63d18d-5f8a-43bf-870e-9dc1c9d8c6e4.png)
+ >
+ >Refactored:
+ >
  >![Refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664956-cad2fb98-03a0-45e0-a5e0-e5d83377891f.png)
  >
  > - ##### Disadvantage concluded for the Non-refactored and Refactored coding is Ticker arrays being limited to only coded index without the ability update unless VBA coding is a skillset for end user
