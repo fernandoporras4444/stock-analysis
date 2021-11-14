@@ -2,6 +2,9 @@
 
 ## Overview: Stock Analysis using VBA Coding
 
+### Purpose:
+ >To select year with assigned stock tickers list, and return analysis table columns for `Ticker, Total Daily Volume, and Return` with click of a button.  
+
 ### Results:
 
 ![Green_Stock_2017](https://user-images.githubusercontent.com/92836648/141664506-13693a8b-26c2-4c73-8fe6-c83cd5e5b159.png)
