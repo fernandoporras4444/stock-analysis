@@ -45,17 +45,43 @@
  >
  >![VBA_Challenge_2018](https://user-images.githubusercontent.com/92836648/141664532-95385731-07bb-434f-8f6c-3213d60a2948.png)
 
+ - #### Comparison Results of Run Time Codes:
+ >VBA coding performance evaluation runtimes between standard & improved coding:
+ >
+ > |                          |      2017     |     2018      |
+ > | ------------------------ | ------------- | ------------- |
+ > | Non-refactor (standard) | 0.93 seconds  | 0.87 seconds  |
+ > | Refactor (improved)     | 0.87 seconds  | 0.83 seconds  |
+ >
+ >Non-refactor (standard) coding runtime results:
+ >
+ >![Green_Stock_2017](https://user-images.githubusercontent.com/92836648/141664506-13693a8b-26c2-4c73-8fe6-c83cd5e5b159.png)
+ >![Green_Stock_2018](https://user-images.githubusercontent.com/92836648/141664527-87de2974-8da7-4a38-be54-3204122a01a2.png)
+ >
+ > Refactor (improved) coding runtime results:
+ >
+ >![VBA_Challenge_2017](https://user-images.githubusercontent.com/92836648/141664529-f4f67063-3ae9-46ed-b640-d589ab664290.png) 
+ >![VBA_Challenge_2018](https://user-images.githubusercontent.com/92836648/141664532-95385731-07bb-434f-8f6c-3213d60a2948.png)
 
-![Green_Stock_2017](https://user-images.githubusercontent.com/92836648/141664506-13693a8b-26c2-4c73-8fe6-c83cd5e5b159.png)
-![Green_Stock_2018](https://user-images.githubusercontent.com/92836648/141664527-87de2974-8da7-4a38-be54-3204122a01a2.png)
+### Summary:
 
+ - #### Advantages vs Disadvantages of Refactoring Code:
+ >
+ > - ##### Advantage concluded from the coding is the Output arrays and the data type selected for data storage capacities.
+ >
+ >![Refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664956-cad2fb98-03a0-45e0-a5e0-e5d83377891f.png)
+ >
+ > - ##### Disadvantage concluded for the coding is Ticker arrays being limited to only coded index without the ability update unless VBA coding is a skillset for end user
+ >
+ >![Dim_Tickers_as_string](https://user-images.githubusercontent.com/92836648/141665889-d99867ce-c6c7-4c73-9583-025720dc44f0.png)
 
-
-![Non_refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664954-ab63d18d-5f8a-43bf-870e-9dc1c9d8c6e4.png)
-
-
-
-
-
-
-
+ - #### Advantages vs Disadvanteges between Non-refactored and Refactored Code:
+ >
+ > - ##### Advantage concluded from the coding is the Output arrays and the data type selected for data storage capacities, and along with Refactored coding adding `Dim tickerVolume`.
+ >
+ >![Non_refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664954-ab63d18d-5f8a-43bf-870e-9dc1c9d8c6e4.png)
+ >![Refractored_arrays_code](https://user-images.githubusercontent.com/92836648/141664956-cad2fb98-03a0-45e0-a5e0-e5d83377891f.png)
+ >
+ > - ##### Disadvantage concluded for the Non-refactored and Refactored coding is Ticker arrays being limited to only coded index without the ability update unless VBA coding is a skillset for end user
+ >
+ >![Dim_Tickers_as_string](https://user-images.githubusercontent.com/92836648/141665889-d99867ce-c6c7-4c73-9583-025720dc44f0.png)
